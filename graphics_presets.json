@@ -1,0 +1,20 @@
+{
+	"Low": {
+		"id": 1,
+		"msaa": 0,
+		"shadow_map_size": 512,
+		"env": "res://resources/Graphics Presets/low.tres"
+	},
+	"Medium": {
+		"id": 2,
+		"msaa": 1, 
+		"shadow_map_size": 1024,
+		"env": "res://resources/Graphics Presets/medium.tres"
+	},
+	"High": {
+		"id": 3,
+		"msaa": 2,
+		"shadow_map_size": 2048,
+		"env": "res://resources/Graphics Presets/high.tres"
+	}
+}
